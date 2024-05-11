@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/intelligence_quiz/static/css/main.d1a5c9c9.css",
-    "main.js": "/intelligence_quiz/static/js/main.4f01699a.js",
+    "main.js": "/intelligence_quiz/static/js/main.a6496adf.js",
     "static/js/453.d7c151d5.chunk.js": "/intelligence_quiz/static/js/453.d7c151d5.chunk.js",
     "static/media/circleOfPeople.png": "/intelligence_quiz/static/media/circleOfPeople.cac36c7c143bf0c3cd96.png",
     "static/media/backgroundScreenDeco.png": "/intelligence_quiz/static/media/backgroundScreenDeco.ace14fc0411d89b7d7fb.png",
@@ -14,11 +14,11 @@
     "static/media/blueDecoFirst.png": "/intelligence_quiz/static/media/blueDecoFirst.a91e8ce856b3fc345476.png",
     "index.html": "/intelligence_quiz/index.html",
     "main.d1a5c9c9.css.map": "/intelligence_quiz/static/css/main.d1a5c9c9.css.map",
-    "main.4f01699a.js.map": "/intelligence_quiz/static/js/main.4f01699a.js.map",
+    "main.a6496adf.js.map": "/intelligence_quiz/static/js/main.a6496adf.js.map",
     "453.d7c151d5.chunk.js.map": "/intelligence_quiz/static/js/453.d7c151d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1a5c9c9.css",
-    "static/js/main.4f01699a.js"
+    "static/js/main.a6496adf.js"
   ]
 }
