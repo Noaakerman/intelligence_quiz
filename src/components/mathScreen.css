@@ -1,0 +1,95 @@
+.mathContainer {
+    animation: highOpacity 2s ease-in;
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    height: 72%;
+    position: absolute;
+    right: -5%;
+    top: 13%;
+    flex-wrap: wrap;
+}
+
+.card {
+    z-index: 2;
+    background-color: #33aaac8e;
+    border-radius: 12px;
+    /* margin-bottom: 30vh; */
+    text-decoration: none;
+    /* display: flex; */
+}
+
+.fronSize {
+    z-index: 2;
+    width: 60vw;
+    height: 20vh;
+}
+
+.backSize {
+    z-index: 2;
+    width: 65vw;
+    height: 35vh;
+}
+
+.secondCard {
+    z-index: 2;
+    position: absolute;
+    top: 40%;
+    animation: animationCard 2s forwards;
+}
+
+@keyframes animationCard {
+    from {
+        top: 50%;
+    }
+
+    to {
+        top: 70%;
+    }
+}
+.mathTitle {
+    font-family: Karantina-bold;
+    font-size: 5vh;
+    color: white;
+    /* line-height: 30vh; */
+    position: absolute;
+    text-align: center;
+    top: 0%;
+}
+
+
+.mathText {
+    font-family: Karantina-light;
+    font-size: 2.4vh;
+    color: white;
+}
+
+.avatar {
+    width: 20vw;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #33A9AC;
+    border-radius: 50%;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16vh;
+}
+
+
+ul li {
+    /* margin:0.75rem 0rem; */
+    padding: 0%;
+    margin: auto;
+}
+
+.backSideUl {
+    /* z-index: 2; */
+    margin-top: -10%;
+    width: 60vw;
+    height: 30vh;
+    list-style-type: circle;
+    text-decoration: dotted;
+}

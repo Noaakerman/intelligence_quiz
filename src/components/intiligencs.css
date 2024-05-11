@@ -1,0 +1,52 @@
+/* languetScreen */
+
+.languetTitleFirstLetter {
+    color: #beca11;
+    font-family: Karantina-Bold;
+    font-size: 5vh;
+    line-height: 1em;
+  }
+  
+  .languetTitle {
+    font-family: Karantina-Bold;
+    font-size: 3.5vh;
+    line-height: 1em;
+    color: white;
+  }
+  
+  .languetTextFirstLetter {
+    color: #beca11;
+    font-family: Karantina-Bold;
+    font-size: 2vh;
+    line-height: 1em;
+  }
+  
+  .languetText {
+    color: white;
+    font-family: Karantina-Bold;
+    font-size: 2vh;
+    line-height: 1em;
+  }
+  
+  .textLanguet {
+    /* float:right; */
+    display: inline-block;
+    padding: 0.3vw;
+  }
+  
+  .ulLanguet {
+    background-position:100%;
+    padding-left: 120%;
+    direction: rtl;
+    position: absolute;
+    width: 90%;
+    height: 70vh;
+    text-align: right;
+    float:right;
+    line-height: 0.1vh;
+    /* background-color: #001eff; */
+  }
+  
+  .space {
+    padding: 1vw;
+  }
