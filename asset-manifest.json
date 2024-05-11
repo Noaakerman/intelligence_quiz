@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/intelligence_quiz/static/css/main.9b041c8a.css",
-    "main.js": "/intelligence_quiz/static/js/main.14f19c90.js",
+    "main.css": "/intelligence_quiz/static/css/main.3fee81d0.css",
+    "main.js": "/intelligence_quiz/static/js/main.211b0566.js",
     "static/js/453.d7c151d5.chunk.js": "/intelligence_quiz/static/js/453.d7c151d5.chunk.js",
-    "static/media/Til.jpg": "/intelligence_quiz/static/media/Til.d1c8275390374dc2b250.jpg",
+    "static/media/Til.png": "/intelligence_quiz/static/media/Til.05852971588f87a5fab8.png",
     "static/media/circleOfPeople.png": "/intelligence_quiz/static/media/circleOfPeople.cac36c7c143bf0c3cd96.png",
     "static/media/backgroundScreenDeco.png": "/intelligence_quiz/static/media/backgroundScreenDeco.ace14fc0411d89b7d7fb.png",
     "static/media/blueFrame.png": "/intelligence_quiz/static/media/blueFrame.0e01ced1a0981ea39843.png",
@@ -14,12 +14,12 @@
     "static/media/ganclm_bold-webfont.ttf": "/intelligence_quiz/static/media/ganclm_bold-webfont.a87a0b32777d8192b6f7.ttf",
     "static/media/blueDecoFirst.png": "/intelligence_quiz/static/media/blueDecoFirst.a91e8ce856b3fc345476.png",
     "index.html": "/intelligence_quiz/index.html",
-    "main.9b041c8a.css.map": "/intelligence_quiz/static/css/main.9b041c8a.css.map",
-    "main.14f19c90.js.map": "/intelligence_quiz/static/js/main.14f19c90.js.map",
+    "main.3fee81d0.css.map": "/intelligence_quiz/static/css/main.3fee81d0.css.map",
+    "main.211b0566.js.map": "/intelligence_quiz/static/js/main.211b0566.js.map",
     "453.d7c151d5.chunk.js.map": "/intelligence_quiz/static/js/453.d7c151d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b041c8a.css",
-    "static/js/main.14f19c90.js"
+    "static/css/main.3fee81d0.css",
+    "static/js/main.211b0566.js"
   ]
 }
